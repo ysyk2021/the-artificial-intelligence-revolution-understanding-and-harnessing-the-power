@@ -1,5 +1,3 @@
-Chapter 6: Future of AI
-=======================
 
 As artificial intelligence (AI) continues to evolve, we can expect to see significant changes in the way we live and work. In this chapter, we will explore the future of AI.
 

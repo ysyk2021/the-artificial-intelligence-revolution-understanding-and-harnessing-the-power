@@ -1,5 +1,3 @@
-Overview of the AI Revolution
-======================================================
 
 Artificial intelligence (AI) is transforming the world as we know it. From self-driving cars to virtual voice assistants, AI-powered systems are changing the way we live and work. In this chapter, we will provide an overview of the AI revolution, exploring the potential of this powerful technology and its impact on society.
 

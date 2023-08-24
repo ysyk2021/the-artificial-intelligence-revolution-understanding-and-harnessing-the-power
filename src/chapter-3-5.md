@@ -1,5 +1,3 @@
-Education
-========================================
 
 Artificial Intelligence (AI) has the potential to transform many industries, including education. In this chapter, we will explore some of the ways AI is being used to improve education.
 

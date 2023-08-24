@@ -1,5 +1,3 @@
-Chapter 4: Benefits and Limitations of AI
-=========================================
 
 Artificial intelligence (AI) has the potential to transform the way we live and work. In this chapter, we will explore the benefits and limitations of AI.
 

@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 Artificial intelligence (AI) has its roots in computer science, mathematics, statistics, and other fields. In this chapter, we will cover the background and fundamentals of AI.
 

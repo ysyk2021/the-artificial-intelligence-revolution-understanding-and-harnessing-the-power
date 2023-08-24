@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 Artificial intelligence (AI) has emerged as a powerful tool with the potential to transform society. Despite its tremendous potential, there is still a lot of confusion and misunderstanding surrounding AI. The purpose of this book is to provide a clear and concise introduction to AI, explaining its fundamentals and exploring its applications.
 

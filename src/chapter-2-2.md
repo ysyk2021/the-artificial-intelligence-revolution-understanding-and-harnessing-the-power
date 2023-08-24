@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 Artificial intelligence (AI) can be classified into different types based on the capabilities and characteristics of the system. In this chapter, we will explore some of the main types of AI, including rule-based systems, machine learning systems, and natural language processing systems.
 

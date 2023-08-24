@@ -1,5 +1,3 @@
-Chapter 5: Ethical and Legal Issues Related to AI
-=================================================
 
 As artificial intelligence (AI) continues to transform the world, there are important ethical and legal considerations that must be taken into account. In this chapter, we will explore the ethical and legal issues related to AI.
 

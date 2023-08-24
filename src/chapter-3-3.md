@@ -1,5 +1,3 @@
-Energy
-=====================================
 
 Artificial intelligence (AI) is transforming the energy industry, from improving energy efficiency to enabling renewable energy sources. In this chapter, we will explore some of the key applications of AI in energy.
 

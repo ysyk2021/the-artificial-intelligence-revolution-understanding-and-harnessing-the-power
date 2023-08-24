@@ -1,5 +1,3 @@
-Challenges and Risks Associated with AI
-==================================================================================
 
 Artificial Intelligence (AI) has numerous benefits, including increased efficiency, accuracy, and automation of tasks. However, there are also limitations to AI and challenges and risks associated with its use. In this chapter, we will discuss both the benefits and limitations of AI and the challenges and risks associated with the technology.
 

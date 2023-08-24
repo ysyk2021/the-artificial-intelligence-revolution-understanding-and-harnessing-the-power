@@ -1,5 +1,3 @@
-Healthcare
-=========================================
 
 Artificial intelligence (AI) is transforming the healthcare industry, from improving patient outcomes to enabling precision medicine. In this chapter, we will explore some of the key applications of AI in healthcare.
 

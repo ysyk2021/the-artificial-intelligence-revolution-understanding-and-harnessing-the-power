@@ -1,5 +1,3 @@
-Business and Finance
-===================================================
 
 Artificial intelligence (AI) is transforming the business and finance industries, from improving customer experiences to optimizing financial decision making. In this chapter, we will explore some of the key applications of AI in business and finance.
 

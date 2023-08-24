@@ -1,5 +1,3 @@
-Transportation
-=============================================
 
 Artificial intelligence (AI) is transforming the transportation industry, from improving safety and reducing traffic congestion to enabling self-driving cars. In this chapter, we will explore some of the key applications of AI in transportation.
 

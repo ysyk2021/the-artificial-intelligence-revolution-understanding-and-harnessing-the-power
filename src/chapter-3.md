@@ -1,5 +1,3 @@
-Chapter 3: Applications of AI
-=============================
 
 Artificial intelligence (AI) can be applied to many different fields, from healthcare to transportation to education. In this chapter, we will explore some specific applications of AI.
 

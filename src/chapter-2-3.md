@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Machine learning is one of the fundamental components of artificial intelligence (AI). In this chapter, we will explore the basic concepts and techniques of machine learning, including supervised learning, unsupervised learning, and reinforcement learning.
 
