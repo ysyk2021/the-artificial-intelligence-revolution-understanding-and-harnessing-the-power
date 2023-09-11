@@ -1,5 +1,4 @@
-Chapter: Predictions for the Future of AI
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore predictions for the future of AI and how it will continue to revolutionize various aspects of our lives. As technology advances at an unprecedented rate, understanding the potential trajectory of AI is vital for individuals and businesses alike. We will discuss key predictions made by experts and thought leaders, providing insights on how AI is expected to shape our future.
 

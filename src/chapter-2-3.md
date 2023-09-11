@@ -1,5 +1,4 @@
-Chapter: Machine Learning Techniques
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various machine learning techniques that form the foundation of artificial intelligence (AI) systems. Machine learning enables machines to learn from data and make intelligent decisions without explicit programming. Understanding these techniques is crucial for leveraging the power of intelligent machines effectively. We will discuss some of the key machine learning techniques used in AI applications, highlighting their strengths, limitations, and practical considerations.
 

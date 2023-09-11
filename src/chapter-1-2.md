@@ -1,5 +1,4 @@
-Chapter: The Purpose of the Book
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has garnered significant attention and investment in recent years, revolutionizing various aspects of society, including healthcare, finance, transportation, manufacturing, and entertainment. AI is transforming the way we live, work, and interact with technology, creating new opportunities and challenges.
 

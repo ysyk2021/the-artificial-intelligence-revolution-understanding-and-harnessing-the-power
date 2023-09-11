@@ -1,5 +1,4 @@
-Chapter: Healthcare
-===================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significant impact of artificial intelligence (AI) in the healthcare industry. AI technologies are revolutionizing healthcare by improving diagnostics, treatment planning, patient monitoring, and drug discovery. We will discuss how AI is transforming various aspects of healthcare and the challenges and opportunities it presents.
 

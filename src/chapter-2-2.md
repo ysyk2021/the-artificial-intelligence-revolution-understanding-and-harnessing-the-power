@@ -1,5 +1,4 @@
-Chapter: Types of Artificial Intelligence
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of artificial intelligence (AI) that exist, highlighting their capabilities, applications, and significance in the broader AI landscape. Understanding these types of AI is crucial for comprehending the diverse range of intelligent machines and systems being developed today. We will discuss some of the key types of AI, their characteristics, and notable examples, shedding light on their potential and impact.
 

@@ -1,5 +1,4 @@
-Chapter: Legal Framework
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of establishing a legal framework to govern the development and deployment of artificial intelligence (AI) technologies. As AI continues to advance and permeate various aspects of society, it is essential to have clear guidelines and regulations in place to ensure responsible and ethical use. We will discuss the key considerations and challenges involved in developing a robust legal framework for AI.
 

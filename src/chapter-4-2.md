@@ -1,5 +1,4 @@
-Chapter: Challenges and Risks Associated with AI
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the challenges and risks associated with the widespread adoption and deployment of artificial intelligence (AI). While AI offers tremendous potential, it is not without its share of concerns and complexities. Understanding these challenges is essential for individuals, organizations, and policymakers to navigate the AI landscape responsibly. We will discuss some of the key challenges and risks that arise from the advancement and utilization of AI technologies.
 
